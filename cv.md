@@ -1,12 +1,22 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+Hi!
+My name is Nellija Hamane.
+Contact Info: 
+* Email: nellija.hamane@outlook.com
+* Telegram: @blue_calm
+
+Summary:
+Now I work as a technical support specialist. My everyday work includes data quality monitoring/administration and support to customers in using BI/Reporting solutions. My goal is now to gain new knowledge and try myself in a different sphere. I know, that my diligence and perseverance will helps me in that long way!
+
+Some skills:
+* Understanding/practical experience with SQL / DB (Transact-SQL)
+* Good Excel knowledge, shown interest for data
+* Critical thinking, good troubleshooting skills
+* Good communication skills, proactivity
+
+Education:
+Bachelor Degree of Engineering Sciences in Computer Control and Computer Science 
+Riga Technical University [ 01/09/2017 – 06/07/2020 ] 
+
+Language skills:
+Russian – native,
+Latvian and English – intermediate
